@@ -20,6 +20,7 @@
     <modules>
         <module>config-server</module>
         <module>eureka-server</module>
+        <module>edge-server</module>
         <module>hello-service</module>
     </modules>
 

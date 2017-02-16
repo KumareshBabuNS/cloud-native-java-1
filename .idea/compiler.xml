@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-server" />
         <module name="eureka-server" />
+        <module name="hello-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloudnativejava-parent-pom" target="1.8" />
       <module name="config-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="hello-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
